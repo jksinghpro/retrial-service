@@ -4,7 +4,7 @@
 
     <groupId>io.github.jksinghpro</groupId>
     <artifactId>retrial-service</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <properties>
         <junit.version>4.12</junit.version>
         <java.version>1.8</java.version>
