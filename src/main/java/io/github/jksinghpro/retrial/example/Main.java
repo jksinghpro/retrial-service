@@ -1,7 +1,7 @@
-package jk.util.retrial.example;
+package io.github.jksinghpro.retrial.example;
 
-import jk.util.retrial.core.RetriableService;
-import jk.util.retrial.core.RetrialUtils;
+import io.github.jksinghpro.retrial.core.RetriableService;
+import io.github.jksinghpro.retrial.core.RetrialUtils;
 
 
 public class Main {

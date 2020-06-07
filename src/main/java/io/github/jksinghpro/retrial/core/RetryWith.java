@@ -1,4 +1,4 @@
-package jk.util.retrial.core;
+package io.github.jksinghpro.retrial.core;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
@@ -11,10 +11,7 @@ import static java.lang.annotation.RetentionPolicy.RUNTIME;
  */
 @Retention(RUNTIME)
 @Target(METHOD)
-public @interface RetriableMethod {
+public @interface RetryWith {
 
-    Class<? extends Exception> retryOn() default Exception.class;
-
-    String retryWith() default "connect";
-
+    String alias() default "none";
 }

@@ -1,6 +1,6 @@
-package jk.util.retrial.example;
+package io.github.jksinghpro.retrial.example;
 
-import jk.util.retrial.core.RetriableMethod;
+import io.github.jksinghpro.retrial.core.RetriableMethod;
 
 import java.io.IOException;
 

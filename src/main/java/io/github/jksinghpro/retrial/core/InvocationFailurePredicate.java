@@ -1,4 +1,4 @@
-package jk.util.retrial.core;
+package io.github.jksinghpro.retrial.core;
 
 
 import net.jodah.failsafe.function.BiPredicate;

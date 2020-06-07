@@ -1,4 +1,4 @@
-package jk.util.retrial.core;
+package io.github.jksinghpro.retrial.core;
 
 import java.io.IOException;
 

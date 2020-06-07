@@ -1,9 +1,9 @@
-package jk.util.retrial.example;
+package io.github.jksinghpro.retrial.example;
 
 
-import jk.util.retrial.core.AbtractRetriableService;
-import jk.util.retrial.core.RetriableMethod;
-import jk.util.retrial.core.RetryWith;
+import io.github.jksinghpro.retrial.core.RetriableMethod;
+import io.github.jksinghpro.retrial.core.RetryWith;
+import io.github.jksinghpro.retrial.core.AbtractRetriableService;
 
 import java.io.File;
 import java.io.IOException;
